@@ -1,7 +1,7 @@
 ### IntelliJ IDEA ###
 .idea/
 *.iml
-out/
+HELP.md
 !**/src/main/**/out/
 !**/src/test/**/out/
 
